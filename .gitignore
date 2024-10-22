@@ -1,0 +1,6 @@
+**/.DS_Store
+data/**
+src/__pycache__
+src/*.egg-info
+mlruns*
+notebooks/lightning_logs

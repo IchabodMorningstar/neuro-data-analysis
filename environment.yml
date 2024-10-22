@@ -1,0 +1,20 @@
+name: neuro-data
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - numpy
+  - ipython
+  - ipykernel
+  - pytorch
+  - pytorch-lightning
+  - lightning
+  - scipy=1.13.1
+  - joblib
+  - optuna
+  - mlflow
+  - pygam
